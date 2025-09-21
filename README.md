@@ -22,10 +22,7 @@ A **dark-themed Flutter Weather App** that fetches live weather data from the Op
 ## Screenshots
 
 ### Weather Display
-![Weather Display](screenshots/weather_display.png)
-
-### Loading State
-![Loading](screenshots/loading.png)
+![Weather Display](screenshots/screenshot_1.png)
 
 ### Error State
 ![Error](screenshots/error.png)
