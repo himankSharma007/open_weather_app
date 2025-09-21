@@ -27,8 +27,6 @@ A **dark-themed Flutter Weather App** that fetches live weather data from the Op
 ### Error State
 ![Error](screenshots/error.png)
 
-*(Replace screenshots with actual images from your app)*
-
 ## How it Works
 
 1. **API Integration**
